@@ -4,4 +4,4 @@
 
 製作者:詹逢宜
 
-![](https://github.com/fongyi/homework/raw/1.關掉Apache服務避免埠號80衝突.PNG)  
+![](https://github.com/fongyi/homework/raw/step01.PNG)  
