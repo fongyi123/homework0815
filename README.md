@@ -44,3 +44,5 @@
 
 13.修正編輯後還留有編輯前資料的BUG.PNG
 ![](https://github.com/fongyi123/homework0815/blob/master/13.%E4%BF%AE%E6%AD%A3%E7%B7%A8%E8%BC%AF%E5%BE%8C%E9%82%84%E7%95%99%E6%9C%89%E7%B7%A8%E8%BC%AF%E5%89%8D%E8%B3%87%E6%96%99%E7%9A%84BUG.PNG)
+
+14.大功告成
